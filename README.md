@@ -14,8 +14,7 @@ Sou estudante focado em desenvolvimento de software, com interesse especial na Ã
 
 ### ðŸ§ª Projetos em destaque
 
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=MvthLeao&repo=nome-do-repositorio-1&theme=dark)](https://github.com/MvthLeao/ProjetoEPLAY.git 
-)
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=MvthLeao&repo=nome-do-repositorio-1&theme=dark)](https://github.com/MvthLeao/ProjetoEPLAY)
 
 [![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=MvthLeao&repo=nome-do-repositorio-2&theme=dark)](https://github.com/MvthLeao/Efood.git)
 
