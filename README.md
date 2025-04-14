@@ -1,6 +1,5 @@
-## Hi there 👋
-
 ### Olá, Seja bem vindo! 👋
+
 
 ###### Sobre mim
 Sou estudante focado em desenvolvimento de software, com interesse especial na área full-stack. Tenho me dedicado ao estudo de linguagens e ferramentas como JavaScript, CSS, Bootstrap, HTML e Python, buscando constantemente aprimorar minhas habilidades práticas e teóricas. Com uma mentalidade proativa e criativa, também exploro possibilidades em design e tecnologia, mantendo uma visão aberta para diferentes caminhos dentro do universo digital.
@@ -11,7 +10,7 @@ Sou estudante focado em desenvolvimento de software, com interesse especial na �
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvthLeao&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MvthLeao&repo=MvthLeao.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
