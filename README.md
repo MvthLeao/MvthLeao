@@ -16,6 +16,10 @@ Sou estudante focado em desenvolvimento de software, com interesse especial na Ã
 
 [![Projeto Efood](https://github-readme-stats.vercel.app/api/pin/?username=MvthLeao&repo=Efood&theme=dark)](https://github.com/MvthLeao/Efood)
 
+[![Projeto EPLAY](https://github-readme-stats.vercel.app/api/pin/?username=MvthLeao&repo=ProjetoEPLAY&theme=dark)](https://github.com/MvthLeao/ProjetoEPLAY)
+
+[![Brazza Churrascaria](https://github-readme-stats.vercel.app/api/pin/?username=MvthLeao&repo=Brazza_churrascaria&theme=dark)](https://github.com/MvthLeao/Brazza_churrascaria)
+
 
 
 ### Linguagens utilizadas
