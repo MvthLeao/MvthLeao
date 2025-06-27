@@ -2,7 +2,7 @@
 
 
 ###### Sobre mim
-Sou estudante focado em desenvolvimento de software, com interesse especial na área full-stack. Tenho me dedicado ao estudo de linguagens e ferramentas como JavaScript, CSS, Bootstrap, HTML e Python, buscando constantemente aprimorar minhas habilidades práticas e teóricas. Com uma mentalidade proativa e criativa, também exploro possibilidades em design e tecnologia, mantendo uma visão aberta para diferentes caminhos dentro do universo digital.
+Sou estudante focado em desenvolvimento de software, com interesse especial na área full-stack. Tenho me dedicado ao estudo de linguagens e ferramentas como JavaScript, CSS, Bootstrap, HTML, Python e SQL buscando constantemente aprimorar minhas habilidades práticas e teóricas. Com uma mentalidade proativa e criativa, também exploro possibilidades em design e tecnologia, mantendo uma visão aberta para diferentes caminhos dentro do universo digital.
 
 
 
